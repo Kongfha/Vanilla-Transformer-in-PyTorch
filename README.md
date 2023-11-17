@@ -62,3 +62,19 @@ Evaluate the model using the testing script test_example.py. Modify the input ex
 
 
 ## References
+
+1. **Attention is All You Need Paper**
+   - Authors: Ashish Vaswani et al.
+   - Paper Link: [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)
+
+2. **Transformer Implementation by Kevin Ko**
+   - GitHub Repository: [github.com/hyunwoongko/transformer](https://github.com/hyunwoongko/transformer)
+
+3. **The Illustrated Transformer by Jay Alammar**
+   - Article Link: [jalammar.github.io/illustrated-transformer](http://jalammar.github.io/illustrated-transformer/)
+
+4. **TensorFlow Transformer Tutorial**
+   - TensorFlow Text Tutorials: [TensorFlow Transformer Tutorial](https://www.tensorflow.org/text/tutorials/transformer)
+
+
+
