@@ -55,7 +55,7 @@ Adjust the hyperparameters and configurations in the param.py file before starti
 
 ## Testing
 
-Evaluate the model using the testing script test_example.py. Modify the input examples to observe the model's performance.
+Test the model using the testing script test_example.py. Modify the input examples to observe the model's outputs.
 
 
 ## References
