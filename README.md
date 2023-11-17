@@ -1,7 +1,5 @@
 # Vanilla Transformer in PyTorch
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 Implementation of a self-made Encoder-Decoder Transformer in PyTorch (Multi-Head Attention is implemented too), inspired by "Attention is All You Need." Primarily designed for Neural Machine Translation (NMT), specifically for Chinese to Thai translation.
@@ -15,7 +13,6 @@ Implementation of a self-made Encoder-Decoder Transformer in PyTorch (Multi-Head
 - [Training](#training)
 - [Testing](#testing)
 - [References](#References)
-- [License](#license)
 
 ## Installation
 
@@ -41,7 +38,7 @@ For testing, you can use the example script:
 python test_example.py
 ```
 
-Make sure to customize the paths and configurations in the param.py file to match your setup.
+Make sure to customize the paths and configurations in the param.py and data.py file to match your setup as these codes were used for training Chinese to Thai translation model.
 
 ## File Structure
 The project structure is organized as follows:
